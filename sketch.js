@@ -18,7 +18,7 @@ function preload(){
 roadImage = loadImage("road.jpg");
 carImage = loadImage("car.png");
 mallEImage = loadImage("mall entrance.jpg");
-malliImage = loadImage("malll.jpg");
+malliImage = loadImage("mallI.jpg");
 barbieImage = loadImage("barbie.png");
 cakeImage = loadImage("cake.png");
 ovenoImage = loadImage("oven open.png");
